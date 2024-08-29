@@ -24,4 +24,6 @@ Email ID:av0673@srmist.edu.in
 
 Track Name: FoodTech
 
-Problem Statement: 
+Problem Statement:  Despite the availability of surplus food from restaurants, households, and individuals, a large portion of this food ends up being discarded rather than reaching those in need.
+
+Introduction: 
